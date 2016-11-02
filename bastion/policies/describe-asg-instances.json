@@ -1,0 +1,14 @@
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Sid": "Stmt1337632",
+      "Action": [
+        "autoscaling:DescribeAutoScalingInstances",
+        "autoscaling:CompleteLifecycleAction"
+      ],
+      "Effect": "Allow",
+      "Resource": "*"
+    }
+  ]
+}
