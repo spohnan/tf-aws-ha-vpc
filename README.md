@@ -12,4 +12,4 @@ availability deployments for applications deployed within private subnets.
 
 #### Diagram
 
-![diagram](https://github.com/spohnan/tf-aws-ha-vpc/blob/master/deployment/ha-vpc.png)
+[diagram](https://raw.githubusercontent.com/spohnan/tf-aws-ha-vpc/master/diagrams/ha-vpc.png)
